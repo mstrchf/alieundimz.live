@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://loquacious-caramel-2e6b46.netlify.app/'
 languageCode = 'en-us'
 title = 'Alieu Ndimz'
 theme = "cactus"
