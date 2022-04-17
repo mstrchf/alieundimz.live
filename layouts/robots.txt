@@ -1,5 +1,2 @@
 Sitemap: https://alieundimz.live/sitemap.xml
 User-agent: *
-{{ range .Pages }}
-Disallow: {{ .RelPermalink }}
-{{ end }}
