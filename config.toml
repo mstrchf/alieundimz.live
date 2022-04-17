@@ -6,6 +6,7 @@ copyright = "Alieu Ndimz"
 
 # Google Analytics 4
 GoogleAnalyticsID = "G-8BLDQJZ598"
+googleAnalytics = "G-8BLDQJZ598"
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
