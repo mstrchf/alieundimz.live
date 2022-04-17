@@ -4,6 +4,8 @@ title = 'Alieu Ndimz'
 theme = "cactus"
 copyright = "Alieu Ndimz"
 
+# Google Analytics 4
+GoogleAnalyticsID = "G-8BLDQJZ598"
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
@@ -45,7 +47,7 @@ weight = 4
 
   colortheme = "white" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
-  googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
+  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
   showAllPostsArchive = true # default
 
   # Home page settings
