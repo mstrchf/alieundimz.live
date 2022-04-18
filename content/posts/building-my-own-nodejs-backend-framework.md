@@ -4,7 +4,7 @@ date: 2022-03-26T09:00:00Z
 tags:
     - notexpress
 categories:
-    - tech
+    - general programming
 keywords:
 ---
 

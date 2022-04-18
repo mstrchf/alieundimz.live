@@ -3,7 +3,7 @@ title: A look into some of the major features of React
 date: 2022-04-15T09:00:00Z
 tags:
   - react.js
-categories: life
+categories: frontend
 keywords: 
 ---
 

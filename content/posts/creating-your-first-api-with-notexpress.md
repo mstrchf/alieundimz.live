@@ -3,7 +3,7 @@ title: Creating your first API with NotExpress
 date: 2022-03-27T09:00:00Z
 tags:
   - notexpress
-categories: life
+categories: backend
 keywords: 
 ---
 
