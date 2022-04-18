@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Alieu Ndimz'
 theme = "cactus"
 copyright = "Alieu Ndimz"
-enableRobotsTXT = true
+enableRobotsTXT = false
 # Google Analytics 4
 GoogleAnalyticsID = "G-8BLDQJZ598"
 googleAnalytics = "G-8BLDQJZ598"
