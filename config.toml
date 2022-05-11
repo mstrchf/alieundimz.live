@@ -58,7 +58,7 @@ weight = 4
   showAllPostsArchive = true # default
 
   # Home page settings
-  description = "I'm a software developer from The Gambia. I specilize in building full stack applications with more focus on the backend. I am currently building a knock-off of the famous Node.js backend framework, Express.js. It is called NotExpress, and you can find it on my Github below. Over the past couple of years, I have worked on some projects that I have open sourced. I have also picked up on writing tutorials and guides."
+  description = "I'm a software developer from The Gambia. I specialize in building full stack applications with more focus on the backend. I am currently building a knock-off of the famous Node.js backend framework, Express.js. It is called NotExpress, and you can find it on my Github below. Over the past couple of years, I have worked on some projects that I have open sourced. I have also picked up on writing tutorials and guides."
   mainSection = "about" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
