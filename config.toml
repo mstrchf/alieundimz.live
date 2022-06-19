@@ -58,7 +58,7 @@ weight = 4
   showAllPostsArchive = true # default
 
   # Home page settings
-  description = "I'm a software developer from The Gambia. I specialize in building full stack applications with more focus on the backend. Over the past couple of years, I have worked on some projects that I have open sourced. I have also picked up on writing tutorials and guides. I have over 2 years of professional experience building applications for both the frontend and backend."
+  description = "I'm a software developer from The Gambia. I specialize in building full stack applications with more focus on the backend. Over the past couple of years, I have worked on some projects that I have open sourced. I have also picked up on writing tutorials and guides. I have over 3 years of professional experience building applications for both the frontend and backend."
   mainSection = "about" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
