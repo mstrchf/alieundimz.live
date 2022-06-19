@@ -8,7 +8,7 @@
       {
          "name":"keurderet-api",
          "url":"https://github.com/ndimzKM/keurderet-api",
-         "desc":"A RESTful API built in TypeScript for a blood donation app being built by my students"
+         "desc":"A RESTful API built in Node.js and TypeScript for a blood donation app being built by my students"
       },
       {
          "name":"ctypist",
