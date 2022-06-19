@@ -6,6 +6,11 @@
          "desc":"A small NodeJS framework that is not a replacement of ExpressJS "
       },
       {
+         "name":"keurderet-api",
+         "url":"https://github.com/ndimzKM/keurderet-api",
+         "desc":"A RESTful API built in TypeScript for a blood donation app being built by my students"
+      },
+      {
          "name":"ctypist",
          "url":"https://github.com/ndimzKM/ctypist",
          "desc":"A typing practice site for programmers built with React & TypeScript"
