@@ -1,8 +1,8 @@
 baseURL = 'https://www.alieundimz.live'
 languageCode = 'en-us'
-title = 'Alieu Ndimz'
+title = 'Alieu Ndimbalane'
 theme = "cactus"
-copyright = "Alieu Ndimz"
+copyright = "Alieu Ndimbalane"
 enableRobotsTXT = false
 # Google Analytics 4
 GoogleAnalyticsID = "G-8BLDQJZ598"
