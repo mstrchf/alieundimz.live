@@ -18,7 +18,7 @@
       {
         "name":"remarque-client",
         "url":"https://github.com/ndimzKM/remarque-client",
-        "desc":" Frontend for a web based note taking app built with React"
+        "desc":"Frontend for a note taking web app for student developers with full markdown support and file export functionality."
       },
       {
         "name":"remarque-v1",
