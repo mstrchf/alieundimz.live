@@ -1,6 +1,11 @@
 {
    "list": [
       {
+         "name":"oh-pm",
+         "url":"https://github.com/ndimzKM/oh-pm",
+         "desc":"an offline-first package manager"
+      },
+      {
          "name":"notexpress",
          "url":"https://github.com/ndimzKM/notexpress",
          "desc":"A small NodeJS framework that is not a replacement of ExpressJS "
