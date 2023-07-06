@@ -1,4 +1,4 @@
-baseURL = 'https://www.alieundimz.live'
+baseURL = 'https://alieu.netlify.app'
 languageCode = 'en-us'
 title = 'Alieu Ndimbalane'
 theme = "cactus"
